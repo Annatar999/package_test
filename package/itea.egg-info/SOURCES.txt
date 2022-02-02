@@ -1,0 +1,7 @@
+setup.py
+itea/__init__.py
+itea/h1.py
+itea.egg-info/PKG-INFO
+itea.egg-info/SOURCES.txt
+itea.egg-info/dependency_links.txt
+itea.egg-info/top_level.txt
